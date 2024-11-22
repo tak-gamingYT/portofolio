@@ -264,9 +264,9 @@ import { backgroundFragmentShader, backgroundVertexShader } from "./shader.js";
 }
 
 {
-	const FIRST_NAME = "Loulou";
-	const LAST_NAME = "Dev59";
-	const BIRTH_DATE = "09-23";
+	const FIRST_NAME = "Tak";
+	const LAST_NAME = "Dam";
+	const BIRTH_DATE = "12-10";
 
 	const age = document.querySelectorAll(".age");
 	const now = new Date();
